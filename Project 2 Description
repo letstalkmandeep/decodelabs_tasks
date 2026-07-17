@@ -1,0 +1,76 @@
+# Exploratory Data Analysis (EDA) in Excel
+
+This project is an end-to-end Exploratory Data Analysis (EDA) project created using Microsoft Excel. The objective of this project was to analyze sales and order data, identify important trends and patterns, and present meaningful business insights through descriptive statistics, Pivot Tables, charts, and interactive analysis tools.
+
+The workbook consists of **8 analytical sheets**, with each sheet focusing on a specific aspect of the dataset.
+
+### Sheet 1: Descriptive Analysis
+
+Performed statistical analysis using Excel functions such as:
+
+* SUM
+* AVERAGE
+* MEDIAN
+* MIN
+* MAX
+* STDEV
+* MODE
+* COUNTA
+
+These measures helped summarize the dataset and understand its central tendency, variation, and overall structure.
+
+### Sheet 2: Product Analysis
+
+Created Pivot Tables and visualizations to analyze:
+
+* Sales by Product
+* Quantity Sold by Product
+* Number of Orders by Product
+
+### Sheet 3: Order Status Analysis
+
+Analyzed the number of orders based on different order statuses to understand the overall order distribution.
+
+### Sheet 4: Payment Mode Analysis
+
+Created a combination chart to analyze the relationship between:
+
+* Total Sales/Total Price
+* Number of Orders
+* Payment Mode
+
+### Sheet 5: Coupon Code Analysis
+
+Analyzed the number of orders associated with different coupon codes to understand coupon usage and order distribution.
+
+### Sheet 6: Sales by Date
+
+Analyzed sales performance over time to identify daily sales patterns and trends.
+
+### Sheet 7: Month-over-Month (MoM) Growth
+
+Calculated and analyzed MoM growth to evaluate changes in performance across different months.
+
+### Sheet 8: Dynamic Growth Analysis
+
+Created a dynamic dashboard-style analysis of:
+
+* Month-over-Month (MoM) Growth
+* Year-over-Year (YoY) Growth
+
+This sheet uses Pivot Tables and a Timeline to allow users to interactively filter and analyze growth trends over different time periods.
+
+### Tools and Techniques Used
+
+* Microsoft Excel
+* Excel Functions
+* Descriptive Statistics
+* Pivot Tables
+* Pivot Charts
+* Combo Charts
+* Timeline Filters
+* Sales Trend Analysis
+* MoM Growth Analysis
+* YoY Growth Analysis
+
+This project demonstrates my practical understanding of **Exploratory Data Analysis, Excel-based data analysis, descriptive statistics, data visualization, Pivot Tables, and business performance analysis**.
